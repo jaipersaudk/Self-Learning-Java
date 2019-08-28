@@ -9,7 +9,7 @@ public class HelloWorld { //defining a new class called HelloWorld. HelloWorld i
     * String[]: The main method accepts a single argument:
       an array of elements of type String.
     */
-    System.out.println("Hello World");
+    System.out.println("Hello World. My Name is Kevin");
     /*
      * Outputs are accomplished by the built in function println()
      * System is a predefined class that provides access to the System
