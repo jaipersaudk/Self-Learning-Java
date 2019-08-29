@@ -8,6 +8,7 @@ public class Self_Description {
     System.out.println("My hobbies are watching YoutTube");
     System.out.println("I Dont have a favorite book");
     System.out.println("My favorite movie is the Fast & Furious");
-    // System is case sensitive
+    // System is case sensitive because it is a specific class
+    // out is the object's name
   }
 }
