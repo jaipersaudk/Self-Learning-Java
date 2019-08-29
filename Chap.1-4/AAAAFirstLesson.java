@@ -9,11 +9,18 @@ public class HelloWorld { //defining a new class called HelloWorld. HelloWorld i
     * String[]: The main method accepts a single argument:
       an array of elements of type String.
     */
-    System.out.println("Hello World. My Name is Kevin");
+    System.out.println("Hello World. My Name is Kevin"); // println is part of the System.out object
     /*
      * Outputs are accomplished by the built in function println()
      * System is a predefined class that provides access to the System
      * out is the variable of type output stream that is connected to the console
+     * both system and out are called identifiers, but when combined with a ".", it is called a name
     */
   }
 }
+
+/*
+ * title case for class names - HelloWorld
+ *
+
+*/
